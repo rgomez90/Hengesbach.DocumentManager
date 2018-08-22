@@ -1,0 +1,18 @@
+{
+  "name": "hengesbach.documentmanager",
+  "version": "1.0.0",
+  "description": "Document Manager for Hengesbach GmbH",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Gomez",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-uglify": "^3.0.1",
+    "rimraf": "^2.6.2"
+  }
+}

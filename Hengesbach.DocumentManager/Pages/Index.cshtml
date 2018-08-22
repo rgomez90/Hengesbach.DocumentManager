@@ -1,0 +1,22 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<form id="upload-form" action="/filehandler" method="POST">
+<div class="card" id="drop_zone" ondrop="dropHandler(event)" ondragover="dragOverHandler(event);">
+    <p>Drag one or more files to this Drop Zone ...</p>
+</div>
+<div class="selectFile text-center">
+    <label for="file">Select file</label>
+    <input type="file" id="file" name="files[]" multiple>
+</div>
+<button type="submit" id="upload-btn">Upload</button>
+</form> 
+
+
+
+
+
+

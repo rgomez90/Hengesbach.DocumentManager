@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hengesbach.DocumentManager", "Hengesbach.DocumentManager\Hengesbach.DocumentManager.csproj", "{0DB9C0B3-FA55-4E19-B09B-D65F405F4E71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DB9C0B3-FA55-4E19-B09B-D65F405F4E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB9C0B3-FA55-4E19-B09B-D65F405F4E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB9C0B3-FA55-4E19-B09B-D65F405F4E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB9C0B3-FA55-4E19-B09B-D65F405F4E71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC5E1F63-B8AC-4021-8C91-CFFEAD03C5F8}
+	EndGlobalSection
+EndGlobal
